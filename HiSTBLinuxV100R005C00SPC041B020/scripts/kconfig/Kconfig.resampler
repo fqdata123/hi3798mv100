@@ -1,3 +1,0 @@
-config HI_AUDIO_RESAMPLER_SUPPORT
-    bool "Audio resampler Support"
-    default y

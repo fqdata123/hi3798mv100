@@ -1,1 +1,0 @@
-obj-y += rtl8822BU_WiFi_linux_v5.1.7_19346.20160909_BTCOEX20160816-2800_beta/

@@ -1,5 +1,0 @@
-
-config HI_OPENSSL_SUPPORT
-    bool "Openssl Support"
-    depends on LINUX_PRODUCT
-    default n

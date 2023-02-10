@@ -1,6 +1,0 @@
-
-config HI_PWM_SUPPORT
-    bool "PWM Support"
-    default y
-    depends on HI3716CV200 || HI3718CV100 || HI3719CV100
-

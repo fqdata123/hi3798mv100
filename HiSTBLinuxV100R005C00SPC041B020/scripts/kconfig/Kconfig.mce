@@ -1,6 +1,0 @@
-
-config  HI_MCE_SUPPORT
-        bool "MCE Support"
-        depends on HI_MSP_BUILDIN
-        default n
-

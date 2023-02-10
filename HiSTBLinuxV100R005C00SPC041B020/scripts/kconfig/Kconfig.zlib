@@ -1,3 +1,0 @@
-config HI_ZLIB_SUPPORT
-    bool "Zlib Support"
-    default y
